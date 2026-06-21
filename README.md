@@ -1,2 +1,14 @@
 # aktopzone-journal
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
